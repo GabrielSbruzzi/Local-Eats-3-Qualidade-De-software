@@ -7,7 +7,7 @@
 | Item                | Descrição                                                         |
 | ------------------- | ----------------------------------------------------------------- |
 | Nome do repositório | Local-Eats-3-Qualidade-De-software                                |
-| Link do repositório | https://github.com/SEU_USUARIO/Local-Eats-3-Qualidade-De-software |
+| Link do repositório | https://github.com/GabrielSbruzzi/Local-Eats-3-Qualidade-De-software.git |
 
 ### 📁 Estrutura de diretórios
 
@@ -30,7 +30,7 @@ Local-Eats-3-Qualidade-De-software/
 | -------------------------- | -------------------------------------------------------------------------- |
 | Título da Issue            | Implementar funcionalidade de login simples                                |
 | Objetivo da funcionalidade | Validar usuário e senha para permitir acesso ao sistema                    |
-| Link da Issue              | https://github.com/SEU_USUARIO/Local-Eats-3-Qualidade-De-software/issues/1 |
+| Link da Issue              | https://github.com/GabrielSbruzzi/Local-Eats-3-Qualidade-De-software/issues/1 |
 
 ---
 
@@ -40,7 +40,7 @@ Local-Eats-3-Qualidade-De-software/
 | ---------------------------- | ----------------------------------------------------------------------------------------------- |
 | Tipo de teste                | Unitário                                                                                        |
 | Objetivo do teste            | Verificar se a função login retorna verdadeiro para credenciais corretas e falso para inválidas |
-| Link para o arquivo do teste | https://github.com/SEU_USUARIO/Local-Eats-3-Qualidade-De-software/blob/main/tests/test_login.py |
+| Link para o arquivo do teste | https://github.com/GabeielSbruzzi/Local-Eats-3-Qualidade-De-software/blob/main/tests/test_login.py |
 
 ### 💻 Código do teste
 
@@ -63,7 +63,7 @@ def test_login_falha():
 | Nome do workflow                 | Qualidade CI                                                                                              |
 | Evento que dispara a execução    | push na branch main                                                                                       |
 | Link para o arquivo do workflow  | https://github.com/SEU_USUARIO/Local-Eats-3-Qualidade-De-software/blob/main/.github/workflows/quality.yml |
-| Link de uma execução do workflow | https://github.com/SEU_USUARIO/Local-Eats-3-Qualidade-De-software/actions                                 |
+| Link de uma execução do workflow | https://github.com/GabrielSbruzzi/Local-Eats-3-Qualidade-De-software/actions                                 |
 
 ### ⚙️ Código do workflow
 
