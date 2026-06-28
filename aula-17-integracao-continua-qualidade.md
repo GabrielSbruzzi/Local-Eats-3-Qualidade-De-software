@@ -62,7 +62,7 @@ def test_login_falha():
 | -------------------------------- | --------------------------------------------------------------------------------------------------------- |
 | Nome do workflow                 | Qualidade CI                                                                                              |
 | Evento que dispara a execução    | push na branch main                                                                                       |
-| Link para o arquivo do workflow  | https://github.com/SEU_USUARIO/Local-Eats-3-Qualidade-De-software/blob/main/.github/workflows/quality.yml |
+| Link para o arquivo do workflow  | https://github.com/GabrielSbruzzi/Local-Eats-3-Qualidade-De-software/blob/08056fbc3e17f4e64111299bfd98f9163c987962/.github/workflows/quality.yml |
 | Link de uma execução do workflow | https://github.com/GabrielSbruzzi/Local-Eats-3-Qualidade-De-software/actions                                 |
 
 ### ⚙️ Código do workflow
@@ -121,12 +121,3 @@ O sistema apresentou erro ao executar os testes devido ao módulo `login` não s
 O problema foi identificado durante a execução da pipeline no GitHub Actions.
 A causa foi a estrutura incorreta do projeto e ausência do arquivo na raiz.
 A correção foi mover o arquivo `login.py` para a raiz do repositório e ajustar a estrutura.
-
----
-
-## 📦 Conclusão
-
-A atividade permitiu aplicar conceitos de integração contínua, automação de testes e organização de projetos.
-A pipeline foi configurada com sucesso e validou automaticamente a execução dos testes.
-
----
