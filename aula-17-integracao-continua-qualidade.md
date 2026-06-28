@@ -40,7 +40,7 @@ Local-Eats-3-Qualidade-De-software/
 | ---------------------------- | ----------------------------------------------------------------------------------------------- |
 | Tipo de teste                | Unitário                                                                                        |
 | Objetivo do teste            | Verificar se a função login retorna verdadeiro para credenciais corretas e falso para inválidas |
-| Link para o arquivo do teste | https://github.com/GabeielSbruzzi/Local-Eats-3-Qualidade-De-software/blob/main/tests/test_login.py |
+| Link para o arquivo do teste | https://github.com/GabrielSbruzzi/Local-Eats-3-Qualidade-De-software/blob/4bd52a0c6b874c4e6a917079652a9f0d1b58166a/tests/test_login.py |
 
 ### 💻 Código do teste
 
