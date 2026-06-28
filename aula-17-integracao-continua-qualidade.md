@@ -113,7 +113,7 @@ jobs:
 | ----------------- | -------------------------------------------------------------------------- |
 | Título do defeito | Erro ao importar módulo login                                              |
 | Severidade        | Alta                                                                       |
-| Link da Issue     | https://github.com/SEU_USUARIO/Local-Eats-3-Qualidade-De-software/issues/2 |
+| Link da Issue     | https://github.com/GabrielSbruzzi/Local-Eats-3-Qualidade-De-software/issues/2 |
 
 ### 🐞 Descrição do defeito
 
